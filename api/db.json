@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Andre Stream",
+      "description": "me doing stuff",
+      "userId": "111678909396461184107",
+      "id": 1
+    },
+    {
+      "title": "Amani Stream",
+      "description": "sucky stream",
+      "userId": "111678909396461184107",
+      "id": 2
+    },
+    {
+      "title": "Andre 3",
+      "description": "is lit",
+      "userId": "111678909396461184107",
+      "id": 4
+    },
+    {
+      "title": "chicke",
+      "description": "ijij",
+      "userId": "111678909396461184107",
+      "id": 5
+    }
+  ],
+  "comments": [
+
+  ]
+}
