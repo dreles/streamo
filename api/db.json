@@ -8,24 +8,52 @@
     },
     {
       "title": "Amani Stream",
-      "description": "sucky stream",
+      "description": "is lit",
       "userId": "111678909396461184107",
       "id": 2
     },
     {
-      "title": "Andre 3",
-      "description": "is lit",
+      "title": "THIS IS A NEW STREAM",
+      "description": "new new ",
+      "userId": "111678909396461184107",
+      "id": 3
+    },
+    {
+      "title": "bybhbhb",
       "userId": "111678909396461184107",
       "id": 4
     },
     {
-      "title": "chicke",
-      "description": "ijij",
+      "title": "jbbjb",
+      "description": "hvhj",
       "userId": "111678909396461184107",
       "id": 5
     }
   ],
   "comments": [
-
+    {
+      "user": "111678909396461184107",
+      "content": "this is the fist comment ",
+      "streamId": 3,
+      "id": 10
+    },
+    {
+      "user": "111678909396461184107",
+      "content": "this is the second comment ",
+      "streamId": 3,
+      "id": 11
+    },
+    {
+      "user": "111678909396461184107",
+      "content": "comment 1",
+      "streamId": 2,
+      "id": 12
+    },
+    {
+      "user": "111678909396461184107",
+      "content": "another one",
+      "streamId": 3,
+      "id": 22
+    }
   ]
 }

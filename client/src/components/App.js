@@ -8,6 +8,8 @@ import StreamShow from './streams/StreamShow'
 import createHistory from '../history'
 
 import Header from './Header'
+import CategoryBar from './CategoryBar'
+
 const App = () => {
 
 	return (
@@ -15,6 +17,8 @@ const App = () => {
 			<Router history={createHistory} >
 				<div>
 					<Header/>
+					<CategoryBar/>
+				
 					<Switch>
 						<Route path='/' exact component={StreamList}/>
 						<Route path='/streams/new' exact component={StreamCreate}/> 

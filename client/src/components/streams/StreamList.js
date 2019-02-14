@@ -13,7 +13,6 @@ class StreamList extends React.Component {
 		
 		return(
 			<div>
-				<h2>Streams</h2>
 				<div className="ui celled list">{this.renderList()}</div>
 				<div style={{float: 'right', paddingTop: '15px'}}>{this.renderCreate()}</div>
 			</div>

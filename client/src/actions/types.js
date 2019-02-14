@@ -6,4 +6,5 @@ export const FETCH_STREAM = 'FETCH_STREAM'
 export const DELETE_STREAM = 'DELETE_STREAM'
 export const EDIT_STREAM = 'EDIT_STREAM'
 export const ADD_COMMENT = 'ADD_COMMENT'
+export const FETCH_COMMENTS = 'FETCH_COMMENTS'
 
